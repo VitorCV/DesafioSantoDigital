@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "demonstracao-santo",
+  "private_key_id": "8252d2172f93f7ce71fc191116f3f07ec30970b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCuXUC7hgFEJ+kA\nsZepE1lnPB7nilkiHoRBQ3gcLeJ6WnywIKLHeTAwItOED3g1cJIbJ28ALevKkYeK\ngAy0zpetqQQ4rt5tVcwMhzA37GR7/BJnB8ABEy8uhFseKMOdyvyj4hbqkTG1FZYy\nMr7ZwpYVaNuXeQhd9uhx1WDsHR4tfuEghM8UNq6YhRSAODMikIJyND25V+33J3ZF\ntal7CT5UzgfDJnFG2HWPB/UfIEu7wSZv0SQ480T7MDigmVlis42xn+VcDUHQWoFZ\nXjQyiDrGCFmFBN4gdfbWp80yypGKmX8B4TWVVCHlOldaatx2s5wOez1/9co1h95r\nQAaYPNoRAgMBAAECggEADC7XmaqrrrqPpxThjQadM++BVMoHv5Csir9XNnfVx9kH\n9on3ObML5Qcf6o2mp2w7xzIuiS+MNrmLpAedq6n2MuP496lvQOoyYUs2WSf3Huse\nUYza83BG1wwYLj+oqF8xHxXKZl4aACY3mf8N8vrrv+f1VOx341HfzKldNe40aDcE\nTcQsQ3iIlrKKtWG/J6DFHg9NlLkdZ6mY6vvKAra4KCnhDHCm1+LI60xKW3gUBqVY\nSjmGQla03sflgSD3uEN9dyO8LtTAulgz6YbqBemH9sbgVcuVmbmUhWZNPziaUx/e\nImiEKXJ3sImD2StQ+ewMxaBHTRc2Kt+hFyJ/XJLK6QKBgQDlZf9WVXHreJHCMwzW\nTQNkWB1HEjcOyBT8R8uQ9jl7J0rVzl7b9ogYKqdrs+OjBEz7+TyjFgoJ7686X00o\nKy/tuRjtneTfZn1wHZBmAYwNfTgt1vS5Ji7w8NSVRIXU1UdazeuhnrALEPQ3HMl8\n1Bw0pKyBb6kDviH4xNeLdB51+QKBgQDClX31J9rj/59iUp9qCPQzh8ZE+4V3n6qe\nsIWrDg/GXvdZRKMPlbMur2JS905FCbLTcuTJQzoAwbwyDrRRhHwdG96W04Y9d+D6\n+GCOOUi4DbVoCqz3XLQfovUjXr0SbV+LWtcj6oe1lKYJ87MaAUfRbdDkHRLdAXR5\n/tioB5Aq2QKBgFuSMLAU4am+cmjUGg69pVn79ov1UHcdFYtzWWZfc6iekbfxblpd\n+guzkytiHr9nKxf2cOclGBLJU+h4PIOJYdOCbNoFimRHNFF567dcbLzBvJhH017J\nSDmz2RhQxx+jl50+0A2vG9T/Co2pdyDWRwAYsCfnG8+7qTH12Zj4XGR5AoGAXdZk\nAPcwa2WaAnuf3y3kPnmK1zeI3PCGArNUMvK8Dsk7dbRRArIJ0EjKHQKgn1CXCbvN\ns3WVIkpLrMREl09R32PSS2BEy53lRILFZbEgbYpG4p7LXRs6zkry9xS4D4vpWLX9\nLJfszFecXw5EYBUgAlJ4O5n9v9D0z+RjrVzAXLkCgYAhUV9c82ArQ2ahvOaueqPP\nIpZ+xS8xqSY4qOoYSb6Od2uohMViz8fWwFFJduX7NcZEUQjbYoEfwFfFd6sakQ3c\nkL7DTTN5KA8LT/EveIikCugoIhhHyfvL3cMnbBoUTRvXNMLRgBwcCo7ry5qF4CJ9\nHaV3cwp4C8V1j54hS2CVng==\n-----END PRIVATE KEY-----\n",
+  "client_email": "challenge-vision@demonstracao-santo.iam.gserviceaccount.com",
+  "client_id": "101241213212586414292",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/challenge-vision%40demonstracao-santo.iam.gserviceaccount.com"
+}
